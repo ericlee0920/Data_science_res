@@ -1,2 +1,2 @@
-# data_science_res
-Data Science in JupyterLab
+# Data Science for JupyterLab
+Using JupyterLab to perform data analysis.
