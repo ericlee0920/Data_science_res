@@ -1,2 +1,2 @@
-# Data Science for JupyterLab
-Using JupyterLab to perform data analysis.
+# Quick Machine Learning
+Fast review of essential machine learning concepts to get to work right away!
